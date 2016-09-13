@@ -1,16 +1,22 @@
 ---
 layout: default
 ---
+{% assign tag = site.tag | where: "slug", post.tag %}
+{% assign tag = tag[0] %}
+{% if tag %}
+    {% capture tag_content %}<a class="label" href="{{ tag.url }}">{{ tag.name }}</a>{% endcapture %}
+{% endif %}
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-    <strong>{{ page.tags }} </strong>
+    <p id="post-meta">{{ tags_content }}</p>
   </header>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
+    <p id="post-meta">{{ category_content }}</p>
   </div>
 
   {% if site.disqus.shortname %}

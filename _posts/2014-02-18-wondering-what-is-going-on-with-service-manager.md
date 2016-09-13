@@ -5,6 +5,7 @@ published: true
 author: Knut Magne Huglen
 comments: true
 date: 2014-02-18 06:02:04
+category: food
 tags:
     - Service Manager
     - System Center

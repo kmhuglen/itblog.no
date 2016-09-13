@@ -5,7 +5,9 @@ published: true
 author: Knut Magne Huglen
 comments: true
 date: 2016-06-15 05:06:00
+category: food
 tags:
+    - azuread
     - Azure AD
     - Firstpoint
     - Intune
