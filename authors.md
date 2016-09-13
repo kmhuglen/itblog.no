@@ -19,8 +19,5 @@ categories: []
 tags: []
 comments: []
 ---
-<img src="knut_profil_bilde_square-300x300.png" width="150" height="150" >
-<b>Knut Magne Huglen</b><br>
-<br>
-Works at <a href="http://www.firstpoint.no/" target="_blank">Firstpoint </a>Bergen in Norway as an IT Solution Architect.<br>
-Focus area is Cloud Infrastructure, Integrations and IT Service Management.<br>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="knutmagnehuglen"><a class="LI-simple-link" href='https://no.linkedin.com/in/knutmagnehuglen?trk=profile-badge'>Knut Magne Huglen</a></div>
