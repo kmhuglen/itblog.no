@@ -18,8 +18,8 @@ email: kmhuglen@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   Works at Firstpoint Bergen in Norway as an IT Solution Architect.
   Focus area is Cloud Infrastructure, Integrations and IT Service Management
-baseurl: "/docs" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site
+#baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://gh-pages.itblog.no" # the base hostname & protocol for your site
 twitter_username: kmhuglen
 github_username:  kmhuglen
 
