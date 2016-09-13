@@ -10,7 +10,7 @@ tags:
     - System Center
 categories:
     - it-pro
-#permalink: /5312
+permalink: /5312
 image:
     feature: scsm2012.jpg
 ---

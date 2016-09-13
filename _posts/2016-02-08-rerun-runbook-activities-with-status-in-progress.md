@@ -12,7 +12,7 @@ tags:
     - System Center
 categories:
     - it-pro
-#permalink: /5875
+permalink: /5875
 ---
 After an incident with the Orchestrator server, several runbook activities in Service Manager did not complete and ended up in status of In Progress but nothing happens.
 
