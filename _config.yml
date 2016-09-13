@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Works at Firstpoint Bergen in Norway as an IT Solution Architect.
   Focus area is Cloud Infrastructure, Integrations and IT Service Management
 #baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://itblog.no" # the base hostname & protocol for your site
+url: "https://itblog.no" # the base hostname & protocol for your site
 twitter_username: kmhuglen
 github_username:  kmhuglen
 
