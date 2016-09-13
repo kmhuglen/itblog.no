@@ -33,7 +33,7 @@ Når en maskin er registrert i Intune kan en sende ut innstillinger, retningslin
 
 Her er en kort video av hvordan en sluttbruker selv setter opp en ny Windows 10 maskin på 5 minutter ferdig konfigurert. It-avdelingen kan være trygg på at deres krav til sikkerhet er oppfylt og sluttbrukeren får en sømløs pålogging (Single-Sign-On (SSO)) til alle sine tjenester.
 
-<iframe width="420" height="315" src="/videos/2016-06-15-somlos-brukeropplevelse-mot-skybaserte--og-tradisjonelle-applikasjoner.Video1.mp4" frameborder="allowfullscreen"></iframe>
+<iframe src="/videos/2016-06-15-somlos-brukeropplevelse-mot-skybaserte--og-tradisjonelle-applikasjoner.Video1.mp4"></iframe>
 
 Video 1:23 min: Oppsett av en ny Windows 10 PC via Azure AD Join. Førstegangspålogging, avsluttes med at bruker må godta bedriftens policy.
 
