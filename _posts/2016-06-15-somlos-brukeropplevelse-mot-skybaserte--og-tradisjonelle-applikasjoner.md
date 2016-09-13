@@ -14,11 +14,12 @@ tags:
 categories:
     - it-pro
 permalink: /5946
+excerpt_separator: <!--more-->
 ---
 **Er Windows 10 verktøyet som tar BYOD fra hype til hyllevare?**
 
 Bring-Your-Own-Device har blitt snakket om lenge, men er mindre utbredd enn man skulle tro ut fra markedsføringen. Dette kan nå begynne å endre seg med de mulighetene som Windows 10 gir, samt at verktøyene for å kontrollere og konfigurere enhetene har blitt mer modne. I dette innlegget vil jeg prøve å gi et kort innblikk i nye muligheter: Hvordan de kan gi en god brukeropplevelse og hvordan IT-avdelingen kan redusere manuelle tidkrevende prosesser.
-
+<!--more-->
 **Azure AD Join**
   
 Denne integrerte funksjonen i Windows 10 gir gode brukeropplevelser og benyttes for å koble maskinen mot Azure AD. Azure AD kan enten være en forlengelse av bedriftens interne Active Directory eller et helt eget separat AD levert fra Azure. Når man kobler en maskin mot Azure AD kan man automatisk registrere den i et verktøy for å utføre administrasjon og kontroll av mobile enheter (MDM eller Mobile Device Management). Kundene kan velge mellom ulike aktører, for eksempel Citrix XenMobile eller Vmware AirWatch. Microsoft leverer dette også selv via Microsoft Intune. Microsoft Intune blir brukt som eksempel her.
