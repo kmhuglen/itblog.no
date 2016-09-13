@@ -11,8 +11,7 @@ tags:
     - Intune
     - Windows 10
     - Windows Store
-#permalink: /5946
-redirects: /5946
+permalink: /5946
 excerpt_separator: <!--more-->
 ---
 **Er Windows 10 verktøyet som tar BYOD fra hype til hyllevare?**

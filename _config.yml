@@ -29,7 +29,6 @@ markdown: kramdown
 theme: minima
 permalink: /:title
 disqus_shortname: itblogno
-redirects: yes
 
 collections:
   my_categories:
