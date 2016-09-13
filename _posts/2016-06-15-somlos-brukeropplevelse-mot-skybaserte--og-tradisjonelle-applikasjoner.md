@@ -18,8 +18,7 @@ excerpt_separator: <!--more-->
 ---
 **Er Windows 10 verktøyet som tar BYOD fra hype til hyllevare?**
 
-Bring-Your-Own-Device har blitt snakket om lenge, men er mindre utbredd enn man skulle tro ut fra markedsføringen. Dette kan nå begynne å endre seg med de mulighetene som Windows 10 gir, samt at verktøyene for å kontrollere og konfigurere enhetene har blitt mer modne. I dette innlegget vil jeg prøve å gi et kort innblikk i nye muligheter: Hvordan de kan gi en god brukeropplevelse og hvordan IT-avdelingen kan redusere manuelle tidkrevende prosesser.
-<!--more-->
+Bring-Your-Own-Device har blitt snakket om lenge, men er mindre utbredd enn man skulle tro ut fra markedsføringen. Dette kan nå begynne å endre seg med de mulighetene som Windows 10 gir, samt at verktøyene for å kontrollere og konfigurere enhetene har blitt mer modne. I dette innlegget vil jeg prøve å gi et kort innblikk i nye muligheter: Hvordan de kan gi en god brukeropplevelse og hvordan IT-avdelingen kan redusere manuelle tidkrevende prosesser.<!--more-->
 
 **Azure AD Join**
   
