@@ -2,7 +2,7 @@
 layout: post
 title: Best practice guidelines for working with Group Policies
 published: true
-author: kmhuglen
+author: Knut Magne Huglen
 comments: true
 date: 2011-04-29 12:04:08
 tags:

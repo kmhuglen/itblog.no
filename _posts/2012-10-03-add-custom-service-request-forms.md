@@ -2,7 +2,7 @@
 layout: post
 title: Add custom Service Request Forms
 published: false
-author: kmhuglen
+author: Knut Magne Huglen
 comments: true
 date: 2012-10-03 07:10:08
 tags:

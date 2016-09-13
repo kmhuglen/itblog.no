@@ -2,7 +2,7 @@
 layout: post
 title: Beautiful User Interface with PowerShell
 published: true
-author: kmhuglen
+author: Knut Magne Huglen
 comments: true
 date: 2015-02-12 02:02:57
 tags:

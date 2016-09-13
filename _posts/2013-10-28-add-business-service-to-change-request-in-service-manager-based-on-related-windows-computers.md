@@ -4,7 +4,7 @@ title: >
     Add Business Service to Change Request in Service Manager
     based on related Windows Computers
 published: true
-author: kmhuglen
+author: Knut Magne Huglen
 comments: true
 date: 2013-10-28 09:10:43
 tags:

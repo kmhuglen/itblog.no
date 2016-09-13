@@ -2,7 +2,7 @@
 layout: post
 title: Blog about PowerShell and Distributed File Service Replication (DFS) in Windows Server 2012 R2
 published: false
-author: kmhuglen
+author: Knut Magne Huglen
 comments: true
 date: 2015-02-26 09:02:08
 tags:
