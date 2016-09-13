@@ -2,16 +2,16 @@
 layout: default
 ---
 
-  {% include head.html %}
+  {{% include head.html %}}
 
   <body>
 
-    {% include header.html %}
+    {{% include header.html %}}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
           <ul class="post-list">
-            {% for post in site.posts %}
+            {{% for post in site.posts %}}
               <li>
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
                 <h2>
@@ -19,11 +19,11 @@ layout: default
                 </h2>
                 {{ post.excerpt | remove: '<p>' | remove: '</p>' | remove: '<b>' | remove: '<strong>'}} <a href="{{ post.url | prepend: site.baseurl }}"> Read More...</a>
               </li>
-            {% endfor %}
+            {{% endfor %}}
           </ul>
       </div>
     </main>
 
-    {% include footer.html %}
+    {{% include footer.html %}}
 
   </body>
