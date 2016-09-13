@@ -45,13 +45,11 @@ Ny funksjonalitet fra både Citrix og VMware løser denne utfordringen ved å pu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LAH5R10fQUQ" frameborder="0" allowfullscreen></iframe>  
 Video 0:58: Innlogging på en Windows 10, Single-Sign-On mot intern Citrix portal og oppstart av en applikasjon uten flere spørsmål om brukernavn og passord.
 
-Den virkelig gode brukeropplevelsen
-====================================
+*Den virkelig gode brukeropplevelsen
 
 Her har jeg vist et eksempel på hvordan en sluttbruker selv kan sette opp en ny Windows 10 maskin, og oppnå en god brukeropplevelse. Det fine er at en trenger ikke ta i bruk alle funksjonene. Hver av komponentene kan settes opp separat. 
 
-Windows Store for Business
---------------------------
+*Windows Store for Business
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nlFCBSAmESo" frameborder="0" allowfullscreen></iframe>
 Video 0:20: Windows Store for Business med tvungen installasjon av utvalgte applikasjoner via Intune
