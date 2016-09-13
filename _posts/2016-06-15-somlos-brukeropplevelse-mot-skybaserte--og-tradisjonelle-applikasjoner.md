@@ -49,9 +49,9 @@ Video 0:58: Innlogging på en Windows 10, Single-Sign-On mot intern Citrix porta
 
 Her har jeg vist et eksempel på hvordan en sluttbruker selv kan sette opp en ny Windows 10 maskin, og oppnå en god brukeropplevelse. Det fine er at en trenger ikke ta i bruk alle funksjonene. Hver av komponentene kan settes opp separat. 
 
-*Windows Store for Business*
+**Windows Store for Business**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nlFCBSAmESo" frameborder="0" allowfullscreen></iframe>
 Video 0:20: Windows Store for Business med tvungen installasjon av utvalgte applikasjoner via Intune
 
-Ønsker du å høre mer rundt Windows 10, Azure AD, Bring-You-Own eller Single-Sign-On og hvordan du kan utnytte deg av mulighetene i ditt miljø? Vi har flere konsulenter som jobber med dette området &#8211; ta kontakt med Knut Magne, Ole Idar, Magnar, Frode eller Christopher, eller via Bjørn Uddal i Oslo
+Ønsker du å høre mer rundt Windows 10, Azure AD, Bring-You-Own eller Single-Sign-On og hvordan du kan utnytte deg av mulighetene i ditt miljø? Vi har flere konsulenter som jobber med dette området - ta kontakt med <a href="http://www.firstpoint.no/ansatte/knut-magne-huglen/">Knut Magne</a>, <a http://"www.firstpoint.no/ansatte/ole-idar-bruvik/">Ole Idar</a>, <a href="http://www.firstpoint.no/ansatte/magnar-johnsen/">Magnar</a>, <a href="http://www.firstpoint.no/ansatte/frode-lohne-saele/">Frode</a> eller <a href="http://www.firstpoint.no/ansatte/christopher-thomsen/">Christopher</a>, eller via <a href="http://www.firstpoint.no/ansatte/bjorn-uddal/">Bjørn Uddal i Oslo</a>
