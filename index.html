@@ -10,6 +10,7 @@ layout: default
                   <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
                 </h2>
                 {{ post.excerpt | remove: '<p>' | remove: '</p>' | remove: '<b>' | remove: '<strong>'}} <a href="{{ post.url | prepend: site.baseurl }}"> Read More...</a>
+                {{ post.tags }}
               </li>
             {% endfor %}
           </ul>
