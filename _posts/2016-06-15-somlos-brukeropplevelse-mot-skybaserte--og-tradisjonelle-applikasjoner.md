@@ -34,7 +34,6 @@ Når en maskin er registrert i Intune kan en sende ut innstillinger, retningslin
 Her er en kort video av hvordan en sluttbruker selv setter opp en ny Windows 10 maskin på 5 minutter ferdig konfigurert. It-avdelingen kan være trygg på at deres krav til sikkerhet er oppfylt og sluttbrukeren får en sømløs pålogging (Single-Sign-On (SSO)) til alle sine tjenester.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ek4c8v4AZeo" frameborder="0" allowfullscreen></iframe>
-
 Video 1:23 min: Oppsett av en ny Windows 10 PC via Azure AD Join. Førstegangspålogging, avsluttes med at bruker må godta bedriftens policy.
 
 **Tradisjonelle applikasjoner**
@@ -43,12 +42,7 @@ I dag skal it-avdelingen ikke bare støtte både tradisjonelle applikasjoner, en
 
 Ny funksjonalitet fra både Citrix og VMware løser denne utfordringen ved å publisere applikasjoner fra bedriftens interne terminal og VDI tjenester og gi SSO hele veien.
 
-
-  https://itblog.blob.core.windows.net/public/BLOG-Video2-Cut.mp4
-
-
-
-  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LAH5R10fQUQ" frameborder="0" allowfullscreen></iframe>  
 Video 0:58: Innlogging på en Windows 10, Single-Sign-On mot intern Citrix portal og oppstart av en applikasjon uten flere spørsmål om brukernavn og passord.
 
 **Den virkelig gode brukeropplevelsen.**
@@ -56,11 +50,8 @@ Video 0:58: Innlogging på en Windows 10, Single-Sign-On mot intern Citrix porta
 Her har jeg vist et eksempel på hvordan en sluttbruker selv kan sette opp en ny Windows 10 maskin, og oppnå en god brukeropplevelse. Det fine er at en trenger ikke ta i bruk alle funksjonene. Hver av komponentene kan settes opp separat. 
 
 **Windows Store for Business**
-  
 
-
-
-  https://itblog.blob.core.windows.net/public/BLOG-Video3-Cut.mp4
- Video 0:20: Windows Store for Business med tvungen installasjon av utvalgte applikasjoner via Intune
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlFCBSAmESo" frameborder="0" allowfullscreen></iframe>
+Video 0:20: Windows Store for Business med tvungen installasjon av utvalgte applikasjoner via Intune
 
 Ønsker du å høre mer rundt Windows 10, Azure AD, Bring-You-Own eller Single-Sign-On og hvordan du kan utnytte deg av mulighetene i ditt miljø? Vi har flere konsulenter som jobber med dette området &#8211; ta kontakt med Knut Magne, Ole Idar, Magnar, Frode eller Christopher, eller via Bjørn Uddal i Oslo
