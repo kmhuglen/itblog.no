@@ -6,7 +6,7 @@ author: kmhuglen
 comments: true
 date: 2010-09-03 07:09:17
 tags:
-    - .vbs
+    - VBScript
     - PowerShell
 categories:
     - it-pro

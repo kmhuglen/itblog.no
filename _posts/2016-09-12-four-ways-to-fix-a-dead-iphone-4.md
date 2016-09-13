@@ -6,8 +6,6 @@ author: kmhuglen
 comments: true
 date: 2010-12-23 03:12:38
 tags:
-    - iPad
-    - iPhone
 categories:
     - it-pro
 permalink: /693

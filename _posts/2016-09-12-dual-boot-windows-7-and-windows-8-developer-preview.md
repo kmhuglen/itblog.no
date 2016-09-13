@@ -6,10 +6,8 @@ author: kmhuglen
 comments: true
 date: 2011-09-15 11:09:27
 tags:
-    - dualboot
+    - Dual Boot
     - Tools
-    - VHD
-    - vhdx
     - Windows
 categories:
     - it-pro

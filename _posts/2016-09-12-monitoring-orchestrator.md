@@ -10,9 +10,7 @@ tags:
     - Orchestrator
     - PowerShell
     - Service Manager
-    - SNMP
     - System Center
-    - Windows Event Log
 categories:
     - it-pro
 permalink: /4932

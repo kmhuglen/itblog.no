@@ -7,7 +7,6 @@ comments: true
 date: 2011-06-06 04:06:30
 tags:
     - MSI
-    - Windows Installer
 categories:
     - it-pro
 permalink: /876

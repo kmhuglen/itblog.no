@@ -6,7 +6,6 @@ author: kmhuglen
 comments: true
 date: 2014-02-11 12:02:52
 tags:
-    - Authoring Tool
     - Service Manager
     - System Center
 categories:

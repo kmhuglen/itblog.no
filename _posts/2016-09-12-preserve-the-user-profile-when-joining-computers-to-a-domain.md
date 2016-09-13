@@ -8,7 +8,6 @@ author: kmhuglen
 comments: true
 date: 2011-09-22 05:09:11
 tags:
-    - User Profile
     - Windows
 categories:
     - it-pro

@@ -8,7 +8,7 @@ author: kmhuglen
 comments: true
 date: 2011-09-27 08:09:22
 tags:
-    - Lync
+    - Office
     - Office 365
 categories:
     - it-pro

@@ -8,10 +8,8 @@ author: kmhuglen
 comments: true
 date: 2012-04-25 03:04:25
 tags:
-    - .vbs
-    - Migration
+    - VBScript
     - PowerShell
-    - Print
     - Windows Server
 categories:
     - it-pro

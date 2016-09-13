@@ -6,10 +6,8 @@ author: kmhuglen
 comments: true
 date: 2014-09-16 11:09:06
 tags:
-    - Data Warehouse
-    - Report Builder
     - Service Manager
-    - SQL Query
+    - SQL
 categories:
     - it-pro
 permalink: /5618

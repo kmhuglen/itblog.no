@@ -10,7 +10,6 @@ tags:
     - Group Policy
     - Migration
     - Windows
-    - WMI
 categories:
     - it-pro
 permalink: /862

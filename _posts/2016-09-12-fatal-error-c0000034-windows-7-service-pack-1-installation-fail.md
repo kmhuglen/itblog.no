@@ -8,7 +8,6 @@ date: 2011-03-10 08:03:57
 tags:
     - BitLocker
     - Windows
-    - WinPE
 categories:
     - it-pro
 permalink: /751

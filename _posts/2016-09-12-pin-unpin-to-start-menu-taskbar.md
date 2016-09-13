@@ -6,11 +6,11 @@ author: kmhuglen
 comments: true
 date: 2012-07-02 11:07:45
 tags:
-    - .vbs
+    - VBScript
     - Group Policy
-    - Logonscript
-    - registry
+    - Registry
     - Windows
+    - Office
 categories:
     - it-pro
 permalink: /1168

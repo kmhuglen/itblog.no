@@ -6,9 +6,8 @@ author: kmhuglen
 comments: true
 date: 2015-04-08 09:04:56
 tags:
-    - Deployment
     - TeamViewer
-    - Unattened
+    - Active Directory 
 categories:
     - it-pro
 permalink: /5774

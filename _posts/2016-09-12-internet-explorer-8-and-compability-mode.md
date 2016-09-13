@@ -6,10 +6,8 @@ author: kmhuglen
 comments: true
 date: 2010-11-24 08:11:22
 tags:
-    - Apache
     - Group Policy
-    - IIS
-    - Internet Explorer
+    - Windows
 categories:
     - it-pro
 permalink: /649

@@ -6,7 +6,6 @@ author: kmhuglen
 comments: true
 date: 2011-06-29 02:06:00
 tags:
-    - BIOS
     - BitLocker
     - Windows
 categories:

@@ -6,8 +6,7 @@ author: kmhuglen
 comments: true
 date: 2009-10-28 02:10:00
 tags:
-    - .vbs
-    - Migration
+    - VBScript
     - SharePoint
 categories:
     - it-pro

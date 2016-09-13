@@ -7,6 +7,7 @@ comments: true
 date: 2009-11-03 10:11:00
 tags:
     - Windows
+    - VBScript
 categories:
     - it-pro
 permalink: /599

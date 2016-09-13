@@ -6,7 +6,6 @@ author: kmhuglen
 comments: true
 date: 2011-09-29 03:09:00
 tags:
-    - Metro
     - Tools
     - Windows
 categories:

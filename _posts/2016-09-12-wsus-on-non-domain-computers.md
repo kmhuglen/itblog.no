@@ -6,10 +6,9 @@ author: kmhuglen
 comments: true
 date: 2011-09-02 10:09:58
 tags:
-    - registry
+    - Registry
     - Windows
     - Windows Server
-    - Workgroup
     - WSUS
 categories:
     - it-pro

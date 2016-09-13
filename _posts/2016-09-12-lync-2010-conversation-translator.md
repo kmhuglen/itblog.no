@@ -6,7 +6,9 @@ author: kmhuglen
 comments: true
 date: 2011-08-01 01:08:17
 tags:
-    - Lync
+    - Office
+    - Office 365
+    - Registry
 categories:
     - it-pro
 permalink: /890

@@ -6,10 +6,10 @@ author: kmhuglen
 comments: true
 date: 2011-04-05 02:04:05
 tags:
-    - KMS
     - Office
     - Windows
     - Windows Server
+    - VBScript
 categories:
     - it-pro
 permalink: /1124

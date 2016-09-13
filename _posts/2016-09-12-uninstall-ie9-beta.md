@@ -6,7 +6,6 @@ author: kmhuglen
 comments: true
 date: 2010-10-05 01:10:27
 tags:
-    - Internet Explorer
     - Windows
 categories:
     - it-pro

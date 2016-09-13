@@ -11,6 +11,7 @@ tags:
     - PowerShell
     - Service Manager
     - System Center
+    - SMlets
 categories:
     - it-pro
 permalink: /3002

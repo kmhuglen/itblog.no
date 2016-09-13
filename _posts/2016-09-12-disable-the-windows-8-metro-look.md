@@ -6,8 +6,8 @@ author: kmhuglen
 comments: true
 date: 2011-09-15 11:09:10
 tags:
-    - Metro
     - Windows
+    - Registry
 categories:
     - it-pro
 permalink: /920

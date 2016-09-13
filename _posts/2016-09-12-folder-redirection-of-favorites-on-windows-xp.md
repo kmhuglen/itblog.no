@@ -6,7 +6,6 @@ author: kmhuglen
 comments: true
 date: 2010-12-14 12:12:40
 tags:
-    - Folder Redirection
     - Group Policy
     - Windows
 categories:

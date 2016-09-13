@@ -6,7 +6,7 @@ author: kmhuglen
 comments: true
 date: 2011-04-15 12:04:36
 tags:
-    - .vbs
+    - VBScript
     - Active Directory
 categories:
     - it-pro

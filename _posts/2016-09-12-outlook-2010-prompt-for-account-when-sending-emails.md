@@ -8,7 +8,6 @@ date: 2012-06-29 09:06:40
 tags:
     - Office
     - Office 365
-    - Outlook
 categories:
     - it-pro
 permalink: /1162

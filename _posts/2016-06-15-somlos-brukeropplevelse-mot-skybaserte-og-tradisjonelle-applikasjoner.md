@@ -5,17 +5,14 @@ published: true
 author: Knut Magne Huglen
 comments: true
 date: 2016-06-15 05:06:00
-category: food
 tags:
-    - azuread
     - Azure AD
     - Firstpoint
     - Intune
     - Windows 10
     - Windows Store
-categories:
-    - it-pro
-permalink: /5946
+#permalink: /5946
+redirects: /5946
 excerpt_separator: <!--more-->
 ---
 **Er Windows 10 verktøyet som tar BYOD fra hype til hyllevare?**

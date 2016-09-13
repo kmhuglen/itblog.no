@@ -6,7 +6,7 @@ author: kmhuglen
 comments: true
 date: 2015-02-26 09:02:08
 tags:
-    - Dfs
+    - DFS
     - PowerShell
     - Replication
     - Windows Server

@@ -8,7 +8,7 @@ author: kmhuglen
 comments: true
 date: 2014-02-05 12:02:37
 tags:
-    - Microsoft SQL Server
+    - SQL
     - Operations Manager
     - Service Manager
     - System Center

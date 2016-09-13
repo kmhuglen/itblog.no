@@ -6,11 +6,9 @@ author: kmhuglen
 comments: true
 date: 2015-04-14 02:04:01
 tags:
-    - BCDEdit
-    - dualboot
+    - Dual Boot
     - Hyper-V
-    - VHD
-    - vhdx
+    - VMware
     - Windows
 categories:
     - it-pro
