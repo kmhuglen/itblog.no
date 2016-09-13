@@ -49,7 +49,8 @@ Video 0:58: Innlogging på en Windows 10, Single-Sign-On mot intern Citrix porta
 
 Her har jeg vist et eksempel på hvordan en sluttbruker selv kan sette opp en ny Windows 10 maskin, og oppnå en god brukeropplevelse. Det fine er at en trenger ikke ta i bruk alle funksjonene. Hver av komponentene kan settes opp separat. 
 
-*Windows Store for Business*
+Windows Store for Business
+--------------------------
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nlFCBSAmESo" frameborder="0" allowfullscreen></iframe>
 Video 0:20: Windows Store for Business med tvungen installasjon av utvalgte applikasjoner via Intune
