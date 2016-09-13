@@ -4,7 +4,7 @@ title: >
     Send-MailMessage command with conditional Cc and Bcc
     arguments
 published: true
-author: kmhuglen
+author: Knut Magne Huglen
 comments: true
 date: 2015-08-07 02:08:42
 tags:

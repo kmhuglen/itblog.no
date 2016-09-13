@@ -2,7 +2,7 @@
 layout: post
 title: 'Sømløs brukeropplevelse mot skybaserte- og tradisjonelle applikasjoner?'
 published: true
-author: kmhuglen
+author: Knut Magne Huglen
 comments: true
 date: 2016-06-15 05:06:00
 tags:

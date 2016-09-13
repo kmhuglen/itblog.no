@@ -2,7 +2,7 @@
 layout: post
 title: Rerun Runbook Activities with status In Progress
 published: true
-author: kmhuglen
+author: Knut Magne Huglen
 comments: true
 date: 2016-02-08 04:02:10
 tags:
