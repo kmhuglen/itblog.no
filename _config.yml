@@ -25,5 +25,5 @@ github_username:  kmhuglen
 
 # Build settings
 markdown: kramdown
-#theme: minima
+theme: minima
 permalink: /:title
