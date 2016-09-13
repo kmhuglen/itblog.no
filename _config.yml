@@ -28,4 +28,4 @@ markdown: kramdown
 
 theme: minima
 permalink: /:title
-disqus.shortname: kmhuglen
+disqus_shortname: itblogno
