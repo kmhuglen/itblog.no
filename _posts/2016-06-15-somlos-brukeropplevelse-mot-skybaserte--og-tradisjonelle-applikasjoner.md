@@ -18,8 +18,6 @@ permalink: /5946
 **Er Windows 10 verktøyet som tar BYOD fra hype til hyllevare?**
 
 Bring-Your-Own-Device har blitt snakket om lenge, men er mindre utbredd enn man skulle tro ut fra markedsføringen. Dette kan nå begynne å endre seg med de mulighetene som Windows 10 gir, samt at verktøyene for å kontrollere og konfigurere enhetene har blitt mer modne. I dette innlegget vil jeg prøve å gi et kort innblikk i nye muligheter: Hvordan de kan gi en god brukeropplevelse og hvordan IT-avdelingen kan redusere manuelle tidkrevende prosesser.
-  
-
 
 **Azure AD Join**
   
@@ -35,13 +33,8 @@ Når en maskin er registrert i Intune kan en sende ut innstillinger, retningslin
 
 Her er en kort video av hvordan en sluttbruker selv setter opp en ny Windows 10 maskin på 5 minutter ferdig konfigurert. It-avdelingen kan være trygg på at deres krav til sikkerhet er oppfylt og sluttbrukeren får en sømløs pålogging (Single-Sign-On (SSO)) til alle sine tjenester.
 
-
-  
-  
-  https://itblog.blob.core.windows.net/public/BLOG-Video1-Cut.mp4
-
-
-
+![My helpful screenshot](/videos/public/BLOG-Video1-Cut.mp4)
+https://itblog.blob.core.windows.net/public/BLOG-Video1-Cut.mp4
   
 Video 1:23 min: Oppsett av en ny Windows 10 PC via Azure AD Join. Førstegangspålogging, avsluttes med at bruker må godta bedriftens policy.
 
