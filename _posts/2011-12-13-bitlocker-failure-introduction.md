@@ -30,7 +30,7 @@ In most cases you are able to unlock Bitlocker protected harddrives just by prov
   
 When a computer starts asking for Recovery Password, the fastest way to fix it is to suspend and then turn it on again after a reboot.
 
-[See my erlier post about suspending bitlocker here](/902)
+[See my erlier post about suspending bitlocker here][1]
 
 **Using the BitLocker Repair Tool to Recover a Drive**
   
@@ -71,3 +71,5 @@ repair-bde E: Z: -rp 062612-026103-175593-225830-027357-086526-362263-513414
 * Turning Off BitLocker Drive Encryption (Windows 7)
 * Repair-bde.exe Parameter Reference
 * Using the BitLocker Repair Tool to Recover a Drive
+
+[1]: /902

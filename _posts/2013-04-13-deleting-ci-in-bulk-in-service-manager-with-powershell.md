@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Deleting CI in Bulk in Service Manager with PowerShell
-published: true
-author: kmhuglen
+published: false
+author: Knut Magne Huglen
 comments: true
 date: 2013-04-13 12:04:11
 tags:

@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >
-    Send-MailMessage command with conditional Cc and Bcc
-    arguments
+title: Send-MailMessage command with conditional Cc and Bcc arguments
 published: true
 author: Knut Magne Huglen
 comments: true

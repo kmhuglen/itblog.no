@@ -16,4 +16,6 @@ image:
 ---
 Wondering what is going on with Service Manager? 
 
-<a href="https://blogs.technet.microsoft.com/servicemanager/2014/02/18/system-center-service-manager-a-phoenix-in-its-own-right/">Read here and share your feedback</a>
+[Read here and share your feedback][1]
+
+[1]: https://blogs.technet.microsoft.com/servicemanager/2014/02/18/system-center-service-manager-a-phoenix-in-its-own-right/

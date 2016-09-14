@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Deploy SCSM webparts to existing SharePoint Server
-published: true
-author: kmhuglen
+published: false
+author: Knut Mane Huglen
 comments: true
 date: 2012-02-01 12:02:03
 tags:

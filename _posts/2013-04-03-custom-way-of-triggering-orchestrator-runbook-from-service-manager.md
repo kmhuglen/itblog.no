@@ -3,8 +3,8 @@ layout: post
 title: >
     Custom way of triggering Orchestrator Runbook from Service
     Manager
-published: true
-author: kmhuglen
+published: false
+author: Knut Magne Huglen
 comments: true
 date: 2013-04-03 12:04:50
 tags:

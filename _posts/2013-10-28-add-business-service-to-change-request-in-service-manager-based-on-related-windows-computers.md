@@ -29,22 +29,28 @@ Her is an example of how I have implemented it.
 
 **First Runbook: Initiate Change Request**
 
-![](/assets/2013-10-28_AddBusiness1.png)
+![][1]
   
 This is the Runbook that is started by the Runbook Automation Activity in the Change Request Template, it uses the ActivityID from the Automation Runbook Activity as input. It then gets the Runbook Automation Activity Object and then the Related Change Request and finally starts a second Runbook with the Guid of the Change Request as input.
 
 **Secound Runbook: Relate Business Services based on related Windows Computers** 
 
-![](/assets/2013-10-28_AddBusiness2.png)
+![][2]
 
 This Runbook is started from the first, and takes the Change Request GUID as an input. It gets all related Windows Computers of the Change Request and start the third Runbook that uses the Principal Name of a Windows Computer as input and the DisplayName of a Business Service as output. It then find the Business Service Object and finally relate it with the About Configuration Item Relationship to the Change Request.
 
 **Runbook: Get Parent Business Service** 
 
-![](/assets/2013-10-28_AddBusiness3.png)
+![][3]
 
 <script src="https://gist.github.com/kmhuglen/0e137f2a60fb3d940bd25f0c4bd565ff.js"></script>
 
 With these Runbooks and the above PowerShell script you can start adding review activates to the Change Request and utilize the related Business Service Users in Review Activities or just in E-Mails for notification.
 
-Thanks to [**Christian Booth**](http://blogs.technet.com/b/servicemanager/archive/2013/09/18/scsm-console-extensions-impacted-business-services.aspx) for the idea and [**Marcel**](http://marcelzehner.ch/2013/10/05/from-ci-to-parent-business-service-beta-version/#more-2723) for an almost finished powershell script. :-)
+Thanks to [**Christian Booth**][4] for the idea and [**Marcel**][5] for an almost finished powershell script. :-)
+
+[1]: /assets/2013-10-28_AddBusiness1.png
+[2]: /assets/2013-10-28_AddBusiness2.png
+[3]: /assets/2013-10-28_AddBusiness3.png
+[4]: http://blogs.technet.com/b/servicemanager/archive/2013/09/18/scsm-console-extensions-impacted-business-services.aspx
+[5]: http://marcelzehner.ch/2013/10/05/from-ci-to-parent-business-service-beta-version/#more-2723
