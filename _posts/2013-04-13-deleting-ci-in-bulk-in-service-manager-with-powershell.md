@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deleting CI in Bulk in Service Manager with PowerShell
-published: false
+published: true
 author: Knut Magne Huglen
 comments: true
 date: 2013-04-13 12:04:11
@@ -13,6 +13,7 @@ categories:
     - it-pro
 permalink: /2982
 ---
-[SCSM 2012: Deleting Configuration Items in Bulk in System Center 2012 Service Manager with PowerShell][1] @ 
+[SCSM 2012: Deleting Configuration Items in Bulk in System Center 2012 Service Manager with PowerShell][1] @ [System Center Central][2]
 
  [1]: http://www.systemcentercentral.com/scsm-2012-deleting-configuration-items-in-bulk-in-system-center-2012-service-manager-with-powershell/
+ [2]: http://www.systemcentercentral.com/

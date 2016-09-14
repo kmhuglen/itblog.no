@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wondering what is going on with Service Manager?
-published: false
+published: true
 author: Knut Magne Huglen
 comments: true
 date: 2014-02-18 06:02:04

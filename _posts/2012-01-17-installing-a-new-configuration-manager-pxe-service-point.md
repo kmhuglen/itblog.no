@@ -2,7 +2,7 @@
 layout: post
 title: Installing a new Configuration Manager PXE service point
 published: true
-author: kmhuglen
+author: Knut Magne Huglen
 comments: true
 date: 2012-01-17 05:01:03
 tags:
@@ -28,21 +28,27 @@ There is a lot of good blog post on this already.
 
 You can then use the **PowerShell** script from [Michael Niehaus][3] to add distribution point to all referenced packages in a task sequence. I personally use the **updated script** from [jscheffelmaer][4] that can be downloaded from his blog post **[Checking Task Sequence Package References for a DP][5].**
 
-_Place SCCM.psm1 in the module folder (User: `userdocumentswindowspowershellmodulesmymodule` Computer: `windows[SysWOW64]system32windowspowershellV1.0modulesmymodule`)on the computer you are running the CheckTSPrompt1.3.ps1 script from. You would need to start the powershell with elevated rights to alter the execution policy to allow running of unsigned script._
+Place SCCM.psm1 in the module folder
 
-[code]Set-ExecutionPolicy RemoteSigned
+* User: `%userprofile%\Documents\WindowsPowerShell\`
+* Computer: `%systemroot%\SysWOW64\WindowsPowerShell\v1.0\Modules\myModule`
+
+on the computer you are running the **CheckTSPrompt1.3.ps1** script from. You would need to start the powershell with **elevated rights** to alter the execution policy to allow running of unsigned script.
+
+`Set-ExecutionPolicy RemoteSigned`
   
-copy .SCCM.psm1 $pshomeModulesSCCMSCCM.psm1[/code]
+`copy .SCCM.psm1 $pshome\Modules\SCCM\SCCM.psm1`
 
-_Se screenshots of the powershell script at jscheffelmaer blog post._
+_Se screenshots of the powershell script at [jscheffelmaer][4] blog post._
 
-[CheckTSPrompt1.3.1][6] (the same script as provided by jscheffelmaer just modified the size of gui)
+[CheckTSPrompt1.3.1.ps1][6] and [SCCM.psm1][7] (the same script as provided by [jscheffelmaer][4] just modified the size of gui)
 
-**EDIT: 20.03.2012:** If there already is a distribution point with all the needed packages, you could with an easy wizard copy all packages distributed to that distribution point to another. Follow the instruction on TechNet for the use of the Configuration Manager Console built-in Copy Package Wizard on How to Copy Multiple Packages to One Distribution Point
+**EDIT: 2012-03-20:** If there already is a distribution point with all the needed packages, you could with an easy wizard copy all packages distributed to that distribution point to another. Follow the instruction on TechNet for the use of the Configuration Manager Console built-in Copy Package Wizard on How to Copy Multiple Packages to One Distribution Point
 
  [1]: http://blogs.technet.com/13909/ProfileUrlRedirect.ashx
  [2]: http://blogs.technet.com/b/configurationmgr/archive/2011/01/05/troubleshooting-the-pxe-service-point-and-wds-in-configuration-manager-2007.aspx
  [3]: http://social.technet.microsoft.com/profile/michael%20niehaus/
  [4]: http://myitforum.com/cs2/login.aspx?ReturnUrl=%2fcs2%2fmembers%2fjscheffelmaer.aspx
  [5]: http://myitforum.com/cs2/blogs/jscheffelmaer/archive/2010/04/27/update-checking-task-sequence-package-references-for-a-dp.aSpx
- [6]: http://itblog.cloudapp.net/wp-content/uploads/CheckTSPrompt1.3.1.zip
+ [6]: https://gist.github.com/kmhuglen/e32d480fd718376bce25b3a2a113be3b
+ [7]: https://gist.github.com/kmhuglen/32d06effa630feaacfd8210b92f4ee1e
