@@ -2,7 +2,7 @@
 layout: post
 title: Switch between Hyper-V and VMware on Windows
 published: true
-author: kmhuglen
+author: Knut Magne Huglen
 comments: true
 date: 2015-04-14 02:04:01
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title: How to Participate in the System Center Community
 published: true
-author: kmhuglen
+author: Knut Magne Huglen
 comments: true
 date: 2013-10-31 08:10:51
 tags:

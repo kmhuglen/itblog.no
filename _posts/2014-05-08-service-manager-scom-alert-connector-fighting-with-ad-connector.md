@@ -2,7 +2,7 @@
 layout: post
 title: 'Service Manager: SCOM Alert connector fighting with AD connector?'
 published: true
-author: kmhuglen
+author: Knut Mage Huglen
 comments: true
 date: 2014-05-08 10:05:23
 tags:
@@ -25,4 +25,6 @@ A User changes Department, and the Department property in Active Directory are m
 
 Have someone seen the same behavior?
 
-I&#8217;ve put this out on the TechNet Forum also: 
+[I have put this out on the TechNet Forum also][1]
+
+[1]: http://social.technet.microsoft.com/Forums/systemcenter/en-US/8e08b9db-0435-4031-aed4-c289cf648c0a/scom-alert-connector-fighting-with-ad-connector
