@@ -17,7 +17,7 @@ image:
 
 This simple sample code can be used to create beautiful user interface in your PowerShell script.
 
-<script src="https://gist.github.com/kmhuglen/9a8fffe7fde1f5a7f141e4b74d40bb81.js"></script>
+<script src="https://gist.github.com/kmhuglen/e523d442cb2f10a49d3d45b330735b36.js"></script>
 
 Running SP scripts utilizing WPF forms on machines with only PowerShell version 2, one has to specify the -STA argument to start the PowerShell process as Single Threaded Apartment. This is the default in version 3 of PowerShell.
 
