@@ -2,7 +2,7 @@
 layout: post
 title: Windows and Office KMS Host Configuration
 published: true
-author: kmhuglen
+author: Knut Magne Huglen
 comments: true
 date: 2011-04-05 02:04:05
 tags:
