@@ -22,8 +22,8 @@ There is sadly no way of scheduling the clean up from the console - but can easi
 
 I recommend running the script at least once a month. For example after [Patch Tuesday][1].
 
-**EDIT 17.08.2011:** When running the script trough the Task Scheduler, run as lokal administrator and remember to check of the Run with highest privileges.
-
 <script src="https://gist.github.com/kmhuglen/676af11e5ffb3d559c6ad0f1cb2674f5.js"></script>
+
+**EDIT 17.08.2011:** When running the script trough the Task Scheduler, run as lokal administrator and remember to check of the Run with highest privileges.
 
  [1]: http://en.wikipedia.org/wiki/Patch_Tuesday
