@@ -2,7 +2,7 @@
 layout: post
 title: WSUS on non-domain computers
 published: true
-author: kmhuglen
+author: Knut Magne Huglen
 comments: true
 date: 2011-09-02 10:09:58
 tags:
@@ -20,7 +20,7 @@ The windows update interface will not give you an option to configure the workgr
 
 See **[Configure Automatic Updates using Registry Editor][1]** at Microsoft TechNet
 
-Or a simple method is to export **HKEY\_LOCAL\_MACHINESOFTWAREPoliciesMicrosoftWindowsWindowsUpdate** on a domain joined computer and import it on the workgroup computer.
+Or a simple method is to export `HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate` on a domain joined computer and import it on the workgroup computer.
 
 **PS:** Remember to consider Client Side targeting when exporting.
 
