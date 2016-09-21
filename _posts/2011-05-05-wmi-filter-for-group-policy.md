@@ -23,7 +23,7 @@ Updated: 02.01.2012&#8211; Apply to Windows Server 2008 R2 (Member and Domain Co
     
   
 Name | Query
----|---:
+:---|---:
 Apply to Windows Servers (Member and Domain Controller)|`SELECT * FROM Win32_OperatingSystem WHERE ProductType <> "1"`
 Apply to Windows Vista or previous and all servers (incl 2008R2)|`SELECT * FROM Win32_OperatingSystem WHERE Version < "6.1" OR ProductType <> "1"`
 Apply to Windows Vista & 2008 or previous|`SELECT * FROM Win32_OperatingSystem WHERE Version < "6.1"`
