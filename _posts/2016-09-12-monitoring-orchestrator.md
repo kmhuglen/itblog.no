@@ -17,7 +17,7 @@ permalink: /4932
 image:
     feature: 012314_1445_MonitoringO1.png
 ---
-You can use Operations Manager to monitor a Orchestrator Servers Windows Services and there are also a Management Pack on Technet Gallery that Discovers Runbooks and monitors it state, and this is a good start. But as you relay more and more on the automation that Orchestrator brings, any type of failure could be fatal for your workflows. You can of course use the Notification activities within your runbooks to send Event Log Messages, Plattform Events etc. and you should.
+You can use Operations Manager to monitor a Orchestrator Servers Windows Services and there are also a [Management Pack on Technet Gallery that Discovers Runbooks and monitors it state][5], and this is a good start. But as you relay more and more on the automation that Orchestrator brings, any type of failure could be fatal for your workflows. You can of course use the Notification activities within your runbooks to send Event Log Messages, Plattform Events etc. and you should.
 
 Alert on events, that you did not take into consideration when designing the Runbook is often written to the Event Window within Orchestrator Designer as a Warning or Error. Here is an example of how to take that information and make it available for trough the Windows Event Log.
 
@@ -40,8 +40,8 @@ More information about oedc command line utility here:
 
 **Run the following commands:**
 
-CD "C:Program Files (x86)Microsoft System Center 2012 R2OrchestratorManagement Server"
-oedc /snmp /add /ip 127.0.0.1 /port 162 /version SNMP1 /community Public
+`CD "C:\Program Files (x86)\Microsoft System Center 2012 R2\Orchestrator\Management Server"
+oedc /snmp /add /ip 127.0.0.1 /port 162 /version SNMP1 /community Public`
 
 **NB: You have to restart the Orchestrator Runbook Service (orunbook) and Orchestrator Runbook Server Monitor (omonitor) after making changes With the oedc command**.
 
@@ -94,7 +94,8 @@ Thats it. Customize it to fit Your environment and you should never miss a failu
 
 My colleague Tore Grøneng has made a blog post on how to Monitor Orchestrator Runbook Events from Operations Manager. Have a look at it.
 
- [1]: /wp-content/uploads/012314_1445_MonitoringO1.png
- [2]: /wp-content/uploads/012314_1445_MonitoringO3.png
- [3]: /wp-content/uploads/012314_1505_MonitoringO1.png
- [4]: /wp-content/uploads/image2.png
+ [1]: /assets/2014-01-23_012314_1445_MonitoringO1.png
+ [2]: /assets/2014-01-23_012314_1445_MonitoringO3.png
+ [3]: /assets/2014-01-23_012314_1505_MonitoringO1.png
+ [4]: /assets/2014-01-23_image2.png
+ [5]: http://gallery.technet.microsoft.com/Orchestrator-Runbook-90307b26
