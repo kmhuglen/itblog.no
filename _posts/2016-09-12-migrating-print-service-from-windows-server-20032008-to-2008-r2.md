@@ -17,10 +17,10 @@ permalink: /1103
 ---
 You will be coming in the scenario where you will have to do a cross platform migrating of your print servers. Windows Server 2008 R2 is an x64 operation system and a regular backup and restore is not gone cut it anymore. Great blog posts about this on TechNet:
 
-  * Cross-Architecture print server migrations: Speeding up the migration process
-  * Best practices on deploying a Microsoft Windows Server 2008/Windows Server 2008 R2 Print Server
-  * Migrating Print Queues quickly using PRINTBRM, configuration files, and the Generic/Text Only Driver
-  * Two Minute Drill: PRINTBRM and the Configuration File
+  * [Cross-Architecture print server migrations: Speeding up the migration process][1]
+  * [Best practices on deploying a Microsoft Windows Server 2008/Windows Server 2008 R2 Print Server][2]
+  * [Migrating Print Queues quickly using PRINTBRM, configuration files, and the Generic/Text Only Driver][3]
+  * [Two Minute Drill: PRINTBRM and the Configuration File][4]
 
 Almost everything in this post is gathered from those blog posts. I recommend reading the original blog post as mine is simplified for my own use.
 
@@ -35,11 +35,11 @@ Almost everything in this post is gathered from those blog posts. I recommend re
 
 Run the following command against the source server:
 
-[code]C:WindowsSystem32spooltoolsPrintBrm.exe -B -S SOURCESERVER -F NOBIN_SOURCESERVER.PrinterExport -NOBIN[/code]
+`C:\Windows\System32\spool\tools\PrintBrm.exe -B -S SOURCESERVER -F NOBIN_SOURCESERVER.PrinterExport -NOBIN`
 
 This will create an export of all queues on the SOURCESERVER without the drivers (binaries).
 
-Then download the CreateBRMConfigXML.vbs script and save it to the temporary folder/share accessable from the SOURCESERVER.
+Then download the `CreateBRMConfigXML.vbs` script and save it to the temporary folder/share accessable from the SOURCESERVER.
 
 [code]strComputer = &#8220;.&#8221;
 
@@ -136,3 +136,8 @@ Make sure that your antivirus doesn’t scan \*.spl, \*.shd or *.tmp files (or c
 #### Print drivers
 
 Start with the latest universal driver, if not good enough then try OEM specific drivers, but keep only one, PCL 5, PCL 6 or Postscript (PS) in the driver catalog.
+
+ [1]: http://blogs.technet.com/b/askperf/archive/2011/03/11/cross-architecture-print-server-migrations-speeding-up-the-migration-process.aspx
+ [2]: http://blogs.technet.com/b/yongrhee/archive/2009/09/14/best-practices-on-deploying-a-microsoft-windows-server-2008-windows-server-2008-r2-print-server.aspx
+ [3]: http://blogs.technet.com/b/askperf/archive/2012/04/03/migrating-print-queues-quickly-using-printbrm-configuration-files-and-the-generic-text-only-driver.aspx
+ [4]: http://blogs.technet.com/b/askperf/archive/2009/02/20/two-minute-drill-printbrm-and-the-configuration-file.aspx
