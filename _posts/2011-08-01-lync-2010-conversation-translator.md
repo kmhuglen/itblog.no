@@ -2,7 +2,7 @@
 layout: post
 title: Lync 2010 Conversation Translator
 published: true
-author: kmhuglen
+author: Knut Magne Huglen
 comments: true
 date: 2011-08-01 01:08:17
 tags:
@@ -21,9 +21,9 @@ Copy the following to a text file and name it something.reg, double click, and y
 
 <script src="https://gist.github.com/kmhuglen/fd9f9817495af08d422bc8aa81e9108b.js"></script>
 
-[][1]
+![1]
 
-[][2]
+![2]
 
 Source: [http://msdn.microsoft.com/en-us/library/gg436843.aspx][3]
 
