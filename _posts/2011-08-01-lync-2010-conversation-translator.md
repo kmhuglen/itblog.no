@@ -28,5 +28,5 @@ Copy the following to a text file and name it something.reg, double click, and y
 Source: [http://msdn.microsoft.com/en-us/library/gg436843.aspx][3]
 
  [1]: /assets/2011-08-01_image_thumb.png
- [2]: /assets/2011-08-01_image1_thumb.png
+ [2]: /assets/2011-08-01_image_thumb1.png
  [3]: http://msdn.microsoft.com/en-us/library/gg436843.aspx "http://msdn.microsoft.com/en-us/library/gg436843.aspx"
