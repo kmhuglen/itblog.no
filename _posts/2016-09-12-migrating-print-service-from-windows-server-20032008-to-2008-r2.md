@@ -1,10 +1,9 @@
 ---
 layout: post
-title: >
-    Migrating Print Service from Windows Server 2003/2008 (x86)
+title: Migrating Print Service from Windows Server 2003/2008 (x86)
     to 2008 R2 (x64)
 published: true
-author: kmhuglen
+author: Knut Magne Huglen
 comments: true
 date: 2012-04-25 03:04:25
 tags:
