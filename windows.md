@@ -1,5 +1,5 @@
 ---
 layout: tag
-slug: Windows
+slug: [Windows, windows]
 Name: Windows
 ---
