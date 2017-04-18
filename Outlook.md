@@ -1,4 +1,4 @@
 ---
 layout: tag
-slug: Outlook, outlook
+slug: outlook
 ---
