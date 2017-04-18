@@ -1,5 +1,4 @@
 ---
 layout: tag
-slug: office
-Name: Office
+slug: Office
 ---
