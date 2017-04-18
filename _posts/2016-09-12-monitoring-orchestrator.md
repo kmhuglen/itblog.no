@@ -63,16 +63,7 @@ Using the built-in System Activity &#8220;Monitor SNMP Trap&#8221; and &#8220;Ru
 
 **PowerShell script:**
 
-$EntryType = "{Output - 1 - Value from "monitor Orchestrator SNMP Traps"}"
-$Message = "{Output - 2 - Value from "monitor Orchestrator SNMP Traps"} - {Output - 3 - Value from "monitor Orchestrator SNMP Traps"}"
-$EventID = "1000"
-
-$LogName = "SNMPTrapMonitor"
-$SourceName = "SNMPTrapMonitor"
-
-$NewEventLog = Get-EventLog -list | Where-Object {$_.logdisplayname -eq $LogName}
-IF (!$NewEventLog.Log -eq $LogName) {New-EventLog -LogName $LogName -Source $SourceName}
-Write-EventLog -logname $LogName -source $SourceName -eventID $EventID -message $Message -EntryType $EntryType
+<script src="https://gist.github.com/kmhuglen/0f65e6a1e73e811b7de2d5eea30b1494.js"></script>
 
 **Configure Runbook to Write a Plattform Event if it fails**
 
