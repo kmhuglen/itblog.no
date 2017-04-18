@@ -36,4 +36,4 @@ Apply to Windows 7 & 2008 R2|`SELECT * FROM Win32_OperatingSystem WHERE Version 
 
 Namespace = rootCIMv2
 
-[1]: /assets/2011-05-05_Importable-MOF-WMI-Filter-v2
+[1]: /assets/2011-05-05_Importable-MOF-WMI-Filter-v2.zip
