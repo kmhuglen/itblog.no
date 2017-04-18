@@ -6,8 +6,8 @@ author: Knut Magne Huglen
 comments: true
 date: 2012-06-29 09:06:40
 tags:
+    - Outlook
     - Office
-    - Office 365
 categories:
     - it-pro
 permalink: /1162
