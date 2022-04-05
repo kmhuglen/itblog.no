@@ -1,0 +1,28 @@
+---
+label: Post Template
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: boolean
+  name: comments
+  label: comments
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: excerpt_separator
+  label: excerpt_separator
