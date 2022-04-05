@@ -5,18 +5,28 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post
+  config:
+    required: true
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: text
   name: author
   label: author
+  default: Knut Magne Huglen
+  config:
+    required: true
 - type: boolean
   name: comments
   label: comments
 - type: datetime
   name: date
   label: date
+  config:
+    required: true
 - type: list
   name: tags
   label: tags
@@ -26,5 +36,6 @@ fields:
 - type: text
   name: excerpt_separator
   label: excerpt_separator
+  default: "<!--more-->"
 pages:
 - _posts/2022-04-05-forestry.md
