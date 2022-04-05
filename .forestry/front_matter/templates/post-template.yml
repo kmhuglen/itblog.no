@@ -38,4 +38,4 @@ fields:
   label: excerpt_separator
   default: "<!--more-->"
 pages:
-- _posts/forestry.md
+- _posts/2022-04-05-forestry.md
