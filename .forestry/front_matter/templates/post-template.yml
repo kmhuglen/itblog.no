@@ -27,4 +27,4 @@ fields:
   name: excerpt_separator
   label: excerpt_separator
 pages:
-- _posts/forestry.md
+- _posts/2022-04-05-forestry.md
