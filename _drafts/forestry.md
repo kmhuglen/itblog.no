@@ -1,0 +1,17 @@
+---
+layout: post
+author: Knut Magne Huglen
+excerpt_separator: "<!--more-->"
+title: forestry
+comments: false
+date: 2022-04-05 00:00:00 +0200
+tags: []
+
+---
+# forestry
+
+Ingress
+
+<!--more-->
+
+more text
