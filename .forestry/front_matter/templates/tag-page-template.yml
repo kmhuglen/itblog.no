@@ -13,3 +13,5 @@ fields:
   label: slug
   config:
     required: true
+pages:
+- test.md
