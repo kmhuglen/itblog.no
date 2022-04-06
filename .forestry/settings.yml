@@ -17,6 +17,7 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+  new_doc_ext: ".md"
 - type: directory
   path: _my_tags
   label: My tags
