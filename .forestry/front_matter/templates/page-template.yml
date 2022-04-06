@@ -5,12 +5,24 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: page
+  config:
+    required: true
 - type: text
   name: status
   label: status
+  default: publish
+  config:
+    required: true
+- name: published
+  type: boolean
+  label: published
+  default: true
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: number
   name: wordpress_id
   label: wordpress_id
