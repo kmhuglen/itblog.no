@@ -5,6 +5,11 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: tag
+  config:
+    required: true
 - type: text
   name: slug
   label: slug
+  config:
+    required: true
