@@ -26,3 +26,5 @@ fields:
 - type: number
   name: wordpress_id
   label: wordpress_id
+pages:
+- test-page.md
