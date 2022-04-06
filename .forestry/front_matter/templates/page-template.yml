@@ -1,0 +1,16 @@
+---
+label: Page Template
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: status
+  label: status
+- type: text
+  name: title
+  label: title
+- type: number
+  name: wordpress_id
+  label: wordpress_id
