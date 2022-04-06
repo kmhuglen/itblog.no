@@ -6,8 +6,7 @@ webhook_url:
 sections:
 - type: document
   path: index.html
-  label: FrontPage
-  match: "**/*"
+  label: index.html
   read_only: true
 - type: jekyll-pages
   label: Pages
