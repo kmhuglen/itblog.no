@@ -9,6 +9,7 @@ sections:
   create: all
   templates:
   - page-template
+  - tag-page-template
 - type: jekyll-posts
   label: Posts
   create: all
