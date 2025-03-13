@@ -17,7 +17,7 @@ title: ITBlog.no
 email: kmhuglen@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   Work at Marin IT in Norway as an Solution Architect.
-#baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/itblog.no" # the subpath of your site, e.g. /blog
 url: "https://kmhuglen.github.io/itblog.no" # the base hostname & protocol for your site
 twitter_username: kmhuglen
 github_username:  kmhuglen
