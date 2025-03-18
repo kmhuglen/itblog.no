@@ -18,8 +18,6 @@ layout: default
     {{ content }}
     <p id="post-meta">{{ category_content }}</p>
   </div>
-
   
-    {% include disqus_comments.html %}
-  {% if site.disqus.shortname %}{% endif %}
+  {% if site.disqus.shortname %}{% include disqus_comments.html %}{% endif %}
 </article>
