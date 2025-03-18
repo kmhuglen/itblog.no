@@ -3,7 +3,7 @@ layout: default
 ---
 
 <ul class="post-list">
-  {% for post in site.posts limit:1 %}
+  {% for post in site.posts limit:0 %}
     <li>
       <span class="post-meta">{{ post.date | date: "%F" }}</span>
       <h2>
@@ -18,7 +18,7 @@ layout: default
       </p>
     </li>
   {% endfor %}
-  <H2>Archive</H2
+  <H2>Archive</H2>
   {% for post in site.posts %}
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%F" }} {{ post.title }}</a><br>
   {% endfor %}
